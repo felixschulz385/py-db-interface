@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: py-db-interface
+Version: 0.0.1
+Summary: An implementation of the R package {DBI} in Python
+Home-page: https://github.com/felixschulz385/py-db-interface.git
+Author: ['Felix Schulz', 'Stefan Mayer']
+Author-email: felixschulz@uni-tuebingen.de
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PDBI
+---
+PDBI provides unified methods to access databases. It tries to mimic the functionalities of the R package {DBI}.
+
+The creation of this package is tied to teaching at the University of Tübingen.
+
+- [x] Establish backends for both sqlite and MySQL
+- [x] Implement a basic set of functions allowing database connection, navigation and queries
+- [x] Test the databases used in the lecture
+- [ ] Test all existing exercises of the lecture
+
+
+

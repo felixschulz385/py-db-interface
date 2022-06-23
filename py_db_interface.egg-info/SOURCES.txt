@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+PDBI/PDBI.py
+PDBI/__init__.py
+py_db_interface.egg-info/PKG-INFO
+py_db_interface.egg-info/SOURCES.txt
+py_db_interface.egg-info/dependency_links.txt
+py_db_interface.egg-info/requires.txt
+py_db_interface.egg-info/top_level.txt
