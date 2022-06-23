@@ -6,8 +6,8 @@ with open("README.md", "r") as readme_file:
 requirements = ["pandas>=1.0.0","mysql-connector-python>=8.0"]
 
 setup(
-    name="py-db-interface",
-    version="0.0.1",
+    name="py_db_interface",
+    version="0.0.2",
     author=["Felix Schulz", "Stefan Mayer"],
     author_email="felixschulz@uni-tuebingen.de",
     description="An implementation of the R package {DBI} in Python",
