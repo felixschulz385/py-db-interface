@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: py-db-interface
-Version: 0.0.2
+Version: 0.0.4
 Summary: An implementation of the R package {DBI} in Python
 Home-page: https://github.com/felixschulz385/py-db-interface.git
 Author: ['Felix Schulz', 'Stefan Mayer']

@@ -7,7 +7,7 @@ requirements = ["pandas>=1.0.0","mysql-connector-python>=8.0"]
 
 setup(
     name="py_db_interface",
-    version="0.0.2",
+    version="0.0.4",
     author=["Felix Schulz", "Stefan Mayer"],
     author_email="felixschulz@uni-tuebingen.de",
     description="An implementation of the R package {DBI} in Python",
